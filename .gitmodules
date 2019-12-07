@@ -1,0 +1,9 @@
+[submodule "Server"]
+	path = Server
+	url = git@github.com:nckf/IceCream.Server.git
+[submodule "Group"]
+	path = Group
+	url = git@github.com:nckf/IceCream.Group.git
+[submodule "Client"]
+	path = Client
+	url = git@github.com:nckf/IceCream.Client.git
